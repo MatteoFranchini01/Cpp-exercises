@@ -1,0 +1,3 @@
+salame 4 50
+benzina 3 10
+fagioli 2 20
